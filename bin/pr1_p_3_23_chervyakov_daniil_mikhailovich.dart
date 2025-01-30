@@ -37,7 +37,10 @@ void main(List<String> arguments) {
 
   print("*"*100);
   print("О себе: lastName, firstName, middleName, myAge, myGroup");
+  print("*"*100);
   print("Место учёбы: myTechnicum");
+  print("*"*100);
   print("Языки, которые изучаю или хотелось бы: myLanguages, anotherLanguages, newSetList");
+  print("*"*100);
   print("Конспект: smallConspect");
 }
